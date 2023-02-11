@@ -1,5 +1,5 @@
 - 👋 Hola! Soy Gastón Zampar
-- 👀 Buscando ampliar mis horizontes me he interesado por el camino de la programación, comenzando por el desarrollo Frontend y proyectándome hacia el desarrollo FullStack.  
+- 👀 Tengo 32 años. Me gusta pasar tiempo con mis hijos y realizar Artes Marciales. Me encanta el Cine y la lectura.
 - 🌱 Actualmente estudiando Fullstack
 - 💞️ Busco aprender de todo lo que tenga a mano. 
 - 📫 zamparg@hotmail.com
