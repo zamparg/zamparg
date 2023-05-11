@@ -3,9 +3,9 @@
 
 
 ## 🚀 Sobre Mí
-Tengo 33 años. Me gusta pasar tiempo con mis hijos y realizar Artes Marciales. Me encanta el Cine y la lectura.
+Soy curioso, autodidacta y comprometido al 100%. Mi objetivo es crecer profesionalmente en un entorno colaborativo, donde pueda trabajar en equipo para desarrollar soluciones innovadoras.
 
-Soy Desarrollador FrontEnd. Me considero un profesional adaptable y resolutivo. Me motiva formar parte de equipos de desarrollo donde se pueda innovar, mejorar y potenciar proyectos.
+Con una base sólida en JS y una mentalidad orientada a la lógica y resolución de problemas,  busco aplicar mis habilidades técnicas en proyectos desafiantes.
 
 Tengo fuerte conocimiento de HTML, CSS, JavaScript y experiencia en el desarrollo de aplicaciones con React, Angular y Node.js.
 ## 🛠 Skills
