@@ -9,17 +9,18 @@ Con una base sólida en JS y una mentalidad orientada a la lógica y resolución
 
 Tengo fuerte conocimiento de HTML, CSS, JavaScript y experiencia en el desarrollo de aplicaciones con React, Angular y Node.js.
 ## 🛠 Skills
+⚡ Angular
+
 ⚡ Javascript, HTML, CSS
 
 ⚡ Bootstrap
 
 ⚡ Node.js
 
-⚡ Angular, ReactJS
-## 👨‍💻 Actualmente estudiando...
-📚  Desarrollo Fullstack
 
-📚  MERN
+
+## 👨‍💻 Actualmente estudiando...
+📚  Tecnicatura en desarrollo de software
 
 ## 🔗 Links
 
